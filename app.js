@@ -1,5 +1,4 @@
 // Dayviews HD
-// ***********
 
 Titanium.UI.orientation = Titanium.UI.LANDSCAPE_LEFT;
 
